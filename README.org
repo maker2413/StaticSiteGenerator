@@ -1,0 +1,14 @@
+#+TITLE: Static Site Generator
+
+This is just a simple static site generator that will convert Markdown files
+into HTML files.
+
+This program was created while following along with the course on [[https://www.boot.dev/u/maker2413][Boot.dev]].
+
+To run the program you will just need to run:
+#+begin_src shell
+  ./main.sh
+#+end_src
+
+This will build out any Markdown files in the ~content~ directory into HTML
+files and put them in the ~public~ directory.
