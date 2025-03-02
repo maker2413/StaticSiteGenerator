@@ -6,9 +6,9 @@
 
 > "Old Tom Bombadil is a merry fellow; bright blue his jacket is, and his boots are yellow. Alas, his merry song may not belong in this plot's prolonged confluence."
 
-In the vast and intricate weave of J.R.R. Tolkien's legendarium, amidst heroes of renown and tales of high adventure, there exists a curious anomaly: Tom Bombadil. This peculiar figure, whimsical and unfettered by the weight of Middle-earth's burdens, has long been a point of contention among scholars and enthusiasts. While his character exudes charm and mystery, I, as an ancient **Archmage**, must assert that his inclusion in _The Lord of the Rings_ was, unfortunately, a narrative misstep.
+In the vast and intricate weave of J.R.R. Tolkien's legendarium, amidst heroes of renown and tales of high adventure, there exists a curious anomaly: Tom Bombadil. This peculiar figure, whimsical and unfettered by the weight of Middle-earth's burdens, has long been a point of contention among scholars and enthusiasts. While his character exudes charm and mystery, I, as an ancient **Archmage**, must assert that his inclusion in *The Lord of the Rings* was, unfortunately, a narrative misstep.
 
-_An unpopular opinion, I know._
+*An unpopular opinion, I know.*
 
 ## Introduction
 
@@ -43,8 +43,7 @@ print("Mystery")
 
 ### An Element of Distraction
 
-Tom Bombadil's inclusion inadvertently shifts focus from the pressing matters of
-Middle-earth, introducing themes that sit uneasily with the narrative's core:
+Tom Bombadil's inclusion inadvertently shifts focus from the pressing matters of Middle-earth, introducing themes that sit uneasily with the narrative's core:
 
 - **A Shift in Focus**: His carefree demeanor and ability to withhold the power
   of the One Ring, while intriguing, distract from the overarching themes of
@@ -54,19 +53,8 @@ Middle-earth, introducing themes that sit uneasily with the narrative's core:
 
 ## Conclusion
 
-As we ponder the manifold wonders and intricacies of Tolkien's world, it is
-evident that Tom Bombadil, while delightfully unique, was a narrative anomaly—a
-whimsical reflection in the mirror of Middle-earth's grand narrative. While his
-character captivates with a certain mystique, it answers questions that were
-never asked, leaving readers with more enigmas than revelations.
+As we ponder the manifold wonders and intricacies of Tolkien's world, it is evident that Tom Bombadil, while delightfully unique, was a narrative anomaly—a whimsical reflection in the mirror of Middle-earth's grand narrative. While his character captivates with a certain mystique, it answers questions that were never asked, leaving readers with more enigmas than revelations.
 
-In conclusion, as one who has explored the mythic past of Middle-earth and
-sought coherence in its storied legacy, I propose that Tom Bombadil, for all his
-merriment and enigma, was a divergence from the tale's destined path—a curiosity
-that, while endearing to some, stands as a reminder that even in the most
-meticulously crafted worlds, not all paths lead to the fulfillment of the quest.
+In conclusion, as one who has explored the mythic past of Middle-earth and sought coherence in its storied legacy, I propose that Tom Bombadil, for all his merriment and enigma, was a divergence from the tale's destined path—a curiosity that, while endearing to some, stands as a reminder that even in the most meticulously crafted worlds, not all paths lead to the fulfillment of the quest.
 
-Thus, let us bid farewell to Old Tom with a final song, recognizing both his
-charm and the discord his presence sowed. For within the hallowed pages of
-Tolkien's masterpiece, every beat must resonate with purpose, lest the harmony
-of the tale be lost to idle whimsy.
+Thus, let us bid farewell to Old Tom with a final song, recognizing both his charm and the discord his presence sowed. For within the hallowed pages of Tolkien's masterpiece, every beat must resonate with purpose, lest the harmony of the tale be lost to idle whimsy.
